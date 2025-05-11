@@ -1,0 +1,19 @@
+.wrapper {
+    margin-left: 40%;
+    margin-top: 20%;
+    text-align: center;
+    width: 20%;
+}
+
+.index-inner-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.index-link-button {
+    background-color: black;
+    color: white;
+    height: 48px;
+    width: 120px;
+}
